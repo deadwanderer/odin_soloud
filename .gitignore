@@ -3,3 +3,4 @@ odinfmt.json
 *.dll
 *.exe
 *.pdb
+*.sublime-workspace
